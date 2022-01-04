@@ -1,0 +1,32 @@
+body {
+  background-color: #f0efe9;
+}
+
+.custom-shape-divider-top-1641279962 {
+  /* position: absolute; */
+  top: 0;
+  left: 0;
+  width: 100%;
+  overflow: hidden;
+  line-height: 0;
+}
+
+.custom-shape-divider-top-1641279962 svg {
+  position: relative;
+  display: block;
+  width: calc(100% + 1.3px);
+  height: 250px;
+}
+
+.custom-shape-divider-top-1641279962 .shape-fill {
+  fill: #FFDDFF;
+}
+
+.todo-container {
+  width: 350px;
+  padding: 20px 30px;
+  margin: 10px auto 0;
+  background-color: white;
+  box-shadow: 10px 10px 10px #c1c0b9;
+
+}
