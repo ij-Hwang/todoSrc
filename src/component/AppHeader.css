@@ -14,7 +14,7 @@
 .day_area {
   margin-right: 5px;
   font-weight: 700;
-  font-size: 40px;
+  font-size: 35px;
 }
 
 .right_col {
@@ -34,6 +34,6 @@
 
 .title {
   color: #50e3a4;
-  font: italic 700 35px "Roboto Condensed";
+  font: italic 700 30px "Roboto Condensed";
   letter-spacing: -0.5px;
 }
